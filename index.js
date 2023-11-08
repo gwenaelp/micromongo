@@ -1,4 +1,4 @@
 'use strict';
+import index from './lib/index.js';
 
-module.exports = require('./lib/index');
-
+export default index;
